@@ -1,0 +1,20 @@
+.navbar {
+    background-color: black;
+    height: 50px;
+} 
+.navbar-content {
+    padding: 15px;
+}
+.navbar-left {
+    padding-left: 20px;
+    float: left;
+}
+.navbar-right {
+    padding-right: 20px;
+    float: right;
+}
+.navbar a {
+    color: white;
+    float: right;
+    text-decoration: none;
+}
